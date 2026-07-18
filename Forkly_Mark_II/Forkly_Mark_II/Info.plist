@@ -11,6 +11,30 @@
 			<key>UIWindowSceneSessionRoleApplication</key>
 			<array>
 				<dict>
+					<key>Roboto-Black</key>
+					<string></string>
+					<key>Roboto-BlackItalic</key>
+					<string></string>
+					<key>Roboto-Bold</key>
+					<string></string>
+					<key>Roboto-BoldItalic</key>
+					<string></string>
+					<key>Roboto-Italic</key>
+					<string></string>
+					<key>Roboto-Light</key>
+					<string></string>
+					<key>Roboto-LightItalic</key>
+					<string></string>
+					<key>Roboto-Medium</key>
+					<string></string>
+					<key>Roboto-MediumItalic</key>
+					<string></string>
+					<key>Roboto-Regular</key>
+					<string></string>
+					<key>Roboto-Thin</key>
+					<string></string>
+					<key>Roboto-ThinItalic</key>
+					<string></string>
 					<key>UISceneConfigurationName</key>
 					<string>Default Configuration</string>
 					<key>UISceneDelegateClassName</key>
